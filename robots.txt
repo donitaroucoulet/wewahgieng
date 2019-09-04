@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iagheyaxu.1x79m.com/sitemap.xml
